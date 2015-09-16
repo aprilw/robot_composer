@@ -1,4 +1,9 @@
 
+Audio samples of resulting melodies available on SoundCloud: 
+[Robot Music](https://soundcloud.com/aprilmayplay/sets/computer-generated)
+
+
+
 Disclaimer: I wrote this a million years ago (i.e. in college when first learning Python). I have not revisited since so I refuse to endure any shaming about it. :)
 
 This code implements a genetic algorithm that generates
